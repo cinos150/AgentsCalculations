@@ -1,0 +1,11 @@
+E:\Visual studio apps\AgentsSystemsTable\AgentsSystemsTable\bin\Debug\AgentsSystemsTable.exe.config
+E:\Visual studio apps\AgentsSystemsTable\AgentsSystemsTable\bin\Debug\AgentsSystemsTable.exe
+E:\Visual studio apps\AgentsSystemsTable\AgentsSystemsTable\bin\Debug\AgentsSystemsTable.pdb
+E:\Visual studio apps\AgentsSystemsTable\AgentsSystemsTable\obj\Debug\AgentsSystemsTable.csprojResolveAssemblyReference.cache
+E:\Visual studio apps\AgentsSystemsTable\AgentsSystemsTable\obj\Debug\AgentsSystemsTable.Properties.Resources.resources
+E:\Visual studio apps\AgentsSystemsTable\AgentsSystemsTable\obj\Debug\AgentsSystemsTable.csproj.GenerateResource.Cache
+E:\Visual studio apps\AgentsSystemsTable\AgentsSystemsTable\obj\Debug\AgentsSystemsTable.exe
+E:\Visual studio apps\AgentsSystemsTable\AgentsSystemsTable\obj\Debug\AgentsSystemsTable.pdb
+E:\Visual studio apps\AgentsSystemsTable\AgentsSystemsTable\bin\Debug\Newtonsoft.Json.dll
+E:\Visual studio apps\AgentsSystemsTable\AgentsSystemsTable\bin\Debug\Newtonsoft.Json.xml
+E:\Visual studio apps\AgentsSystemsTable\AgentsSystemsTable\obj\Debug\AgentsSystemsTable.Form1.resources
